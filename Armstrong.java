@@ -1,6 +1,6 @@
 public class Armstrong 
 {
-public static void main(String args[])
+public static void main(String  args[])
 {
 int n = 153;
 int temp = n;
