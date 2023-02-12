@@ -1,0 +1,9 @@
+import java.util.*;
+class ArrayList2
+{
+public static void main(String[] args)
+{
+ArrayList<int> list=new ArrayList<int>();
+
+}
+}
